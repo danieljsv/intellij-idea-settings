@@ -1,0 +1,36 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/akseli-formatting-settings-v3.xml" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5213523" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6624738" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.21385421" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="repository&#10;add new line&#10;commit message&#10;version&#10;settings reposi" />
+    <property name="SplitFileEditor.Proportion" value="0.6841046" />
+    <property name="TrendingPluginsSearchHistory" value="vaadin" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="export.settings.path" value="$USER_HOME$/daniel-settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/javahtml/pom.xml&#10;/home/daniel/Downloads/MyProject/pom.xml&#10;/home/daniel/Proteus&#10;/home/daniel/A2/features/professional-view&#10;/home/daniel/under16SmsConfirmation/pom.xml&#10;/home/daniel/under16SmsConfirmation&#10;/home/daniel/A2/features/room-monitor/dashboard-plugin&#10;/home/daniel/Downloads/settings.jar" />
+    <property name="file.gist.reindex.count" value="4882" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/javahtml/pom.xml" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.4705414" />
+  </component>
+</application>

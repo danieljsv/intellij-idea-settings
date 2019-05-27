@@ -1,0 +1,82 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ChangesView.Diff" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="ContextHelp" />
+  <action id="CopyElement" />
+  <action id="CopyPaths" />
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditSource" />
+  <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="GotoTest" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="Images.ShowThumbnails" />
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="SonarLint.AnalyzeFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
