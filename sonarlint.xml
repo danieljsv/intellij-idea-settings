@@ -9,6 +9,11 @@
         <option value="squid:S2160" />
       </set>
     </option>
+    <option name="fileExclusions">
+      <list>
+        <option value="src/test/**" />
+      </list>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
