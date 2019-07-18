@@ -5,6 +5,7 @@
         <option value="squid:S1155" />
         <option value="squid:S1301" />
         <option value="squid:S1602" />
+        <option value="squid:S1611" />
         <option value="squid:S1612" />
         <option value="squid:S2160" />
       </set>
