@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../features/dashboard/dashboard-view/src/main/java/fi/xaxis/a2/dashboard/view/DashboardUIProvider.java [dashboard-view]'" />
+    <option name="defaultScopeName" value="File '.../features/dashboard/dashboard-view/src/main/java/fi/xaxis/a2/dashboard/view/DashboardUIProvider.java [dashboard-view]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../features/dashboard/dashboard-view/src/main/java/fi/xaxis/a2/dashboard/view/DashboardUIProvider.java [dashboard-view]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
