@@ -16,6 +16,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.scss</mask>
     <mask>*.java</mask>
   </component>
 </application>
