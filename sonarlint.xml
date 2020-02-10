@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="excludedRules">
       <set>
         <option value="squid:CommentedOutCodeLine" />
@@ -19,8 +20,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonar.x-akseli.fi" />
-          <option name="name" value="Sonar X-Akseli" />
+          <option name="hostUrl" value="https://sonar.x-akseli.fi/" />
+          <option name="name" value="Akseli" />
           <option name="login" value="daniel" />
           <password>dfc4dfc7dfe0dfebdf9fdf9adfdddfd3dfd0</password>
           <organizationKey>default-organization</organizationKey>
